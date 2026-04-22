@@ -1,0 +1,22 @@
+| Name                             |    Stmts |     Miss |   Cover |
+|--------------------------------- | -------: | -------: | ------: |
+| cli/\_\_init\_\_.py              |        0 |        0 |    100% |
+| cli/argument\_parser.py          |        7 |        0 |    100% |
+| data/\_\_init\_\_.py             |        0 |        0 |    100% |
+| data/models.py                   |       12 |        0 |    100% |
+| data/reader.py                   |       18 |        0 |    100% |
+| errors.py                        |        9 |        0 |    100% |
+| main.py                          |       27 |        1 |     96% |
+| output/\_\_init\_\_.py           |        0 |        0 |    100% |
+| output/table.py                  |        7 |        0 |    100% |
+| reports/\_\_init\_\_.py          |        5 |        0 |    100% |
+| reports/base.py                  |       10 |        0 |    100% |
+| reports/clickbait.py             |        8 |        0 |    100% |
+| reports/registry.py              |       14 |        0 |    100% |
+| tests/\_\_init\_\_.py            |        0 |        0 |    100% |
+| tests/conftest.py                |       17 |        0 |    100% |
+| tests/test\_clickbait\_report.py |       20 |        0 |    100% |
+| tests/test\_data\_reader.py      |       22 |        0 |    100% |
+| tests/test\_integration.py       |       25 |        0 |    100% |
+| tests/test\_registry.py          |       15 |        0 |    100% |
+| **TOTAL**                        |  **216** |    **1** | **99%** |
