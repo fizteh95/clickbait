@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Использование
 
 ```bash
-python main.py --files stats1.csv stats2.csv --report clickbait
+python main.py --files demo/stats1.csv demo/stats2.csv --report clickbait
 ```
 
 ### Формат CSV-файлов
